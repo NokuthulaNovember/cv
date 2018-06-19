@@ -1,0 +1,12 @@
+h1{color:grey;text-align: center;font-family:"broadway"; text-dedcoration:underline;font-size:50px;}
+h2{color:pink;text-align: center;font-family:"calibri"; text-dedcoration:underline;font-size:50px;}
+
+body{background-color: cyan;}
+
+
+
+#open{color:pink;font-family:"broadway";text-align:left;font-size:50px;}
+
+#close{color:grey;font-family:"verdana";text-align:left;font-size:50px;}
+
+#footer{clear: both;padding: .2em;background-color: #cbc;text-align: center;}
